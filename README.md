@@ -9,3 +9,5 @@ Referências:
 
 Aria, M., & Cuccurullo, C. (2017). bibliometrix: An R-tool for comprehensive science mapping analysis. Journal of informetrics, 11(4), 959-975.
 Lin, J., Arief, V., Jahufer, Z., Osorno, J., McClean, P., Jarquin, D., & Hoyos-Villegas, V. (2023). Simulations of rate of genetic gain in dry bean breeding programs. Theoretical and Applied Genetics, 136(1), 14.
+
+Lin, J. (2022). The Simulation of Plant Breeding Scenarios in the Common Bean «Phaseolus Vulgaris L.». McGill University (Canada).
